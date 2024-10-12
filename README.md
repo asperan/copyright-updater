@@ -1,6 +1,6 @@
 # copyright-updater
 
-The scripts searches in files in a given directory for a copyright string (i.e. `Copyright (c) 2023, Alex Speranza`) and updates the year to the current one.
+The scripts searches in files in a given directory for a copyright string (i.e. `Copyright (c) 2024, Alex Speranza`) and updates the year to the current one.
 
 This script is based on `find` and `sed`, so make sure to have them installed in the system.
 
